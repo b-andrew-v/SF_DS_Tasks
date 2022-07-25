@@ -1,7 +1,7 @@
 # SF Data Science course project: exercises and tasks
 
 ## ToC  
-[Block 1. Python-8. 8. Task #8.1](.README.md##Block-1.Python-8.8.Task#8.1)  
+[Block 1. Python-8. 8. Task #8.1](README.md##Block-1.Python-8.8.Task#8.1)  
 
 
 ## Block 1.Python-8.8.Task#8.1
@@ -9,7 +9,7 @@
 ### Описание проекта    
 Угадать загаданное системой число за минимальное число попыток.
 
-[к оглавлению](.README.md##Toc)
+[к оглавлению](README.md##ToC)
 
 ### Какой кейс решаем?    
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -30,24 +30,24 @@
 ### Краткая информация о данных
 ....
   
-[к оглавлению](.README.md##Toc)
+[к оглавлению](README.md##ToC)
 
 
 ### Этапы работы над проектом  
 ....
 
-[к оглавлению](.README.md##Toc)
+[к оглавлению](README.md##ToC)
 
 
 ### Результаты:  
 ....
 
-[к оглавлению](.README.md##Toc)
+[к оглавлению](README.md##ToC)
 
 
 ### Выводы:  
 ....
 
-[к оглавлению](.README.md##Toc)
+[к оглавлению](README.md##ToC)
 
 
